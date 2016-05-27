@@ -30,6 +30,4 @@ Xamarin 관련 자료들을 모으고 있는 레포지터리 입니다.
 [Xamarin Developers](https://www.facebook.com/groups/xamarin.developers/)
 
 
-Visual Studio Dev Essentials
-
-[Link](https://aka.ms/dev_essential)
+Visual Studio Dev Essentials [Link](https://aka.ms/dev_essential)
