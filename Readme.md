@@ -15,3 +15,8 @@ Xamarin 관련 자료들을 모으고 있는 레포지터리 입니다.
 - 세션1: Xamarin Overview / 용영환 서울옥션블루 CTO
 - 세션2: Xamarin으로 50분만에 앱 개발하기 / 송기수 전무 OpenSG / Microsoft MVP
 - 세션3: Xamarin 초보를 넘어서기 위한 필수 스킬 / 이규원 CTO envicase / Microsoft MVP
+
+커뮤니티
+[Xamarin Korea](https://www.facebook.com/groups/818902071467383/)
+
+[Xamarin Developers](https://www.facebook.com/groups/xamarin.developers/)
