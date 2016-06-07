@@ -15,12 +15,18 @@
 
 #세미나
 ## 2016.05.27 '한 발 먼저 보는 Xamarin 세미나' (준비되는 데로 바로 업로드 하겠습니다.)
-- 세션1: Xamarin Overview / 용영환 서울옥션블루 CTO 
-	[발표자료(준비중)] [소스(준비중)] [동영상(준비중)]
-- 세션2: Xamarin으로 50분만에 앱 개발하기 / 송기수 전무 OpenSG / Microsoft MVP 
-	[발표자료(준비중)] [소스(준비중)] [동영상(준비중)]
-- 세션3: Xamarin 초보를 넘어서기 위한 필수 스킬 / 이규원 CTO envicase / Microsoft MVP 
-	[[발표자료](https://docs.com/gyuwon/7739)] [[소스](https://github.com/gyuwon/ms-xamarin-seminar-2016)] [동영상(준비중)]
+###세션 1: Xamarin Overview / 용영환 서울옥션블루 CTO 
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/0MkMJXYSZwM" frameborder="0" allowfullscreen></iframe>
+[발표자료(준비중)] [소스(준비중)] 
+
+###세션2: Xamarin으로 50분만에 앱 개발하기 / 송기수 전무 OpenSG / Microsoft MVP 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/2NG9WV1csLY" frameborder="0" allowfullscreen></iframe>
+[발표자료(준비중)] [소스(준비중)] 
+
+###세션3: Xamarin 초보를 넘어서기 위한 필수 스킬 / 이규원 CTO envicase / Microsoft MVP 
+[[발표자료](https://docs.com/gyuwon/7739)] [[소스](https://github.com/gyuwon/ms-xamarin-seminar-2016)] [동영상(준비중)]
+
 
 
 #커뮤니티
