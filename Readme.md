@@ -5,14 +5,20 @@
 
 [Xamarin for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/xamarin-for-absolute-beginners-16182?l=fPHWqptJC_5705846048)
 
+<<<<<<< HEAD
 한국어 동영상 과정은 7월 중에 제공해 드리기 위해서 노력 중입니다. 
 
 #무료 EBook
 
 무료 EBook 다운로드 [Free ebook: Creating Mobile Apps with Xamarin.Forms](https://blogs.msdn.microsoft.com/microsoft_press/2016/03/31/free-ebook-creating-mobile-apps-with-xamarin-forms/)
+=======
+한국어 버전의 온라인 시리즈는 별도로 준비하고 있습니다. (7월 오픈 예정)
 
-무료 EBook 샘플
-[Free ebook Samples](https://github.com/xamarin/xamarin-forms-book-samples)
+#무료 EBook
+
+무료 EBook Download [Free ebook: Creating Mobile Apps with Xamarin.Forms](https://blogs.msdn.microsoft.com/microsoft_press/2016/03/31/free-ebook-creating-mobile-apps-with-xamarin-forms/)
+
+무료 EBook Sample Download[Free ebook Samples](https://github.com/xamarin/xamarin-forms-book-samples)
 
 #세미나
 ### 2016.05.27 '한 발 먼저 보는 Xamarin 세미나'
@@ -38,5 +44,7 @@
 [Xamarin Korea](https://www.facebook.com/groups/818902071467383/)
 
 [Xamarin Developers](https://www.facebook.com/groups/xamarin.developers/)
+
+#Xamarin 관련 유용한 링크
 
 Visual Studio Dev Essentials [Link](https://aka.ms/dev_essential)
