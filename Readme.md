@@ -5,10 +5,11 @@
 
 [Xamarin for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/xamarin-for-absolute-beginners-16182?l=fPHWqptJC_5705846048)
 
+한국어 동영상 과정은 7월 중에 제공해 드리기 위해서 노력 중입니다. 
 
 #무료 EBook
 
-[Free ebook: Creating Mobile Apps with Xamarin.Forms](https://blogs.msdn.microsoft.com/microsoft_press/2016/03/31/free-ebook-creating-mobile-apps-with-xamarin-forms/)
+무료 EBook 다운로드 [Free ebook: Creating Mobile Apps with Xamarin.Forms](https://blogs.msdn.microsoft.com/microsoft_press/2016/03/31/free-ebook-creating-mobile-apps-with-xamarin-forms/)
 
 무료 EBook 샘플
 [Free ebook Samples](https://github.com/xamarin/xamarin-forms-book-samples)
