@@ -4,7 +4,7 @@
 #온라인 강좌
 
 [Xamarin for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/xamarin-for-absolute-beginners-16182?l=fPHWqptJC_5705846048)
-
+한국어 동영상 강좌를 준비 중입니다. 준비되는데로 공유하겠습니다. 
 
 #무료 EBook
 
