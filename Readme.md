@@ -31,6 +31,7 @@
 
 [[발표자료](https://docs.com/gyuwon/7739)] [[소스](https://github.com/gyuwon/ms-xamarin-seminar-2016)] 
 
+#모바일 DevOps 관련 자료
 
 
 #커뮤니티
