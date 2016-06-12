@@ -33,6 +33,7 @@
 
 #모바일 DevOps 관련 자료
 
+[https://github.com/KoreaEva/Xamarin/tree/master/Devops](https://github.com/KoreaEva/Xamarin/tree/master/Devops)
 
 #커뮤니티
 
