@@ -21,3 +21,5 @@ Mobile DevOps with HockeyApp and Visual Studio Team Services
 #관련 사이트 
 HockeyApp 공식 사이트 [https://www.hockeyapp.net/](https://www.hockeyapp.net/)
 
+Xamarin용 HockeyApp Library [https://github.com/bitstadium/HockeySDK-Xamarin](https://github.com/bitstadium/HockeySDK-Xamarin)
+
