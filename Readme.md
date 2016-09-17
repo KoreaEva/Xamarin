@@ -4,9 +4,6 @@
 #온라인 강좌
 
 [Xamarin for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/xamarin-for-absolute-beginners-16182?l=fPHWqptJC_5705846048)
-한국어 동영상 강좌를 준비 중입니다. 준비되는데로 공유하겠습니다. 
-
-한국어 동영상 과정은 7월 중에 제공해 드리기 위해서 노력 중입니다. 
 
 #무료 EBook
 
@@ -32,6 +29,7 @@
 [Xamarin Developers](https://www.facebook.com/groups/xamarin.developers/)
 
 #Xamarin 관련 유용한 링크
+[Presentations](https://forums.xamarin.com/categories/presentations)
 
-Visual Studio Dev Essentials [Link](https://aka.ms/dev_essential)
+[Visual Studio Dev Essentials](https://aka.ms/dev_essential)
 
