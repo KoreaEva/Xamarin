@@ -19,7 +19,7 @@
 [https://github.com/KoreaEva/Xamarin/tree/master/Seminar/20160527%20Xamarin](https://github.com/KoreaEva/Xamarin/tree/master/Seminar/20160527%20Xamarin)
 
 #HOL
-
+[https://github.com/KoreaEva/Xamarin/tree/master/HOL](https://github.com/KoreaEva/Xamarin/tree/master/HOL)
 
 #모바일 DevOps 관련 자료
 
