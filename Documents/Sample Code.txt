@@ -54,6 +54,26 @@ using System.Xml.Linq;
             var booklist = books.ToList();
             lstBooks.ItemsSource = booklist;
 
+-----------------
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DaumBookSearch
+{
+    public class BookItem
+    {
+        string Title { get; set; }
+        string Category { get; set; }
+        string ImageUrl { get; set; }
+        string Description { get; set; }
+    }
+}
+-----------
+
+
 6.
 
   <ContentPage.Content>
