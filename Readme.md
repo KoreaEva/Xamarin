@@ -12,8 +12,8 @@
 무료 EBook Sample Download[Free ebook Samples](https://github.com/xamarin/xamarin-forms-book-samples)
 
 #세미나
-### 2016.05.27 '한 발 먼저 보는 Xamarin 세미나'
-[https://github.com/KoreaEva/Xamarin/tree/master/Seminar/20160527%20Xamarin](https://github.com/KoreaEva/Xamarin/tree/master/Seminar/20160527%20Xamarin)
+2016.05.27 '한 발 먼저 보는 Xamarin 세미나'[https://github.com/KoreaEva/Xamarin/tree/master/Seminar/20160527%20Xamarin](https://github.com/KoreaEva/Xamarin/tree/master/Seminar/20160527%20Xamarin)<br>
+2016.07.30 'Xamarin Mobile Cross-platform'[https://github.com/KoreaEva/Xamarin/tree/master/Seminar/20160730_Xamarin_Busan](https://github.com/KoreaEva/Xamarin/tree/master/Seminar/20160730_Xamarin_Busan)
 
 #HOL
 [https://github.com/KoreaEva/Xamarin/tree/master/HOL](https://github.com/KoreaEva/Xamarin/tree/master/HOL)
