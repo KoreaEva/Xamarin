@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <ManifestDocuments>
+    <ManifestDocument>obj\Debug\__library_projects__\HockeySDK.AndroidBindings\library_project_imports\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Debug\__library_projects__\HockeySDK.AndroidBindings\library_project_imports\aapt\AndroidManifest.xml</ManifestDocument>
+  </ManifestDocuments>
+  <NativeLibraries />
+  <Jars>
+    <Jar>obj\Debug\__library_projects__\HockeySDK.AndroidBindings\library_project_imports\bin\classes.jar</Jar>
+  </Jars>
+</Paths>

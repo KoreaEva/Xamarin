@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\young\documents\visual studio 2015\Projects\HockeyAppTest\HockeyAppTest\obj\Debug\__library_projects__\HockeySDK.AndroidBindings\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\young\documents\visual studio 2015\Projects\HockeyAppTest\HockeyAppTest\obj\Debug\__library_projects__\HockeySDK\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>C:\Users\young\documents\visual studio 2015\Projects\HockeyAppTest\HockeyAppTest\obj\Debug\__library_projects__\HockeySDK.AndroidBindings\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\young\documents\visual studio 2015\Projects\HockeyAppTest\HockeyAppTest\obj\Debug\__library_projects__\HockeySDK\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\young\documents\visual studio 2015\Projects\HockeyAppTest\HockeyAppTest\obj\Debug\__library_projects__\HockeySDK.AndroidBindings.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\young\documents\visual studio 2015\Projects\HockeyAppTest\HockeyAppTest\obj\Debug\__library_projects__\HockeySDK.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
